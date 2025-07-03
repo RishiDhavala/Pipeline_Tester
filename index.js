@@ -1,1 +1,1 @@
-console.log("Testing Pipeline")
+console.log("Testing Pipeline integration")
